@@ -19,6 +19,11 @@ a {
   box-sizing: border-box;
 }
 
+.dark {
+  background-color: #1a202c;
+  color: #fff;
+}
+
 @font-face {
   font-family: "Inter";
   font-style: normal;
